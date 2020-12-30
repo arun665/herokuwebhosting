@@ -1,0 +1,19 @@
+{
+  "name": "resume_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arun sharma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-pdf": "^1.2.2",
+    "handlebars": "^4.7.6",
+    "puppeteer": "^5.5.0"
+  }
+}
